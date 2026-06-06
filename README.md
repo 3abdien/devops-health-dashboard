@@ -73,7 +73,7 @@ devops-health-dashboard/
 
 - [x] System metrics collector
 - [x] SQLite storage
-- [ ] Flask web dashboard
+- [x] Flask web dashboard
 - [ ] Docker containerization
 - [ ] GitHub Actions CI/CD pipeline
 - [ ] Deploy to cloud (AWS/GCP)

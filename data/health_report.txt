@@ -1,0 +1,3 @@
+=== Server Health Report ===
+Web-Server-1 | CPU: 74.8% | Memory: 80% | OK
+Web-Server-2 | CPU: 82.3% | Memory: 88.3% | WARNING

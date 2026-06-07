@@ -51,13 +51,22 @@ pip install -r requirements.txt
 # Run the collector
 python src/collector.py
 ```
-# ✅ Database initialized.
+# ✅ Database initialised.
 # 📊 Collecting system metrics...
 # [date ] CPU: 1.0% | Memory: 74.8% | Disk: 88.5%
 # [date] CPU: 0.7% | Memory: 74.8% | Disk: 88.5%
 # ✅ Done. Check data/metrics.db 
 ---
+## 🐳 Docker
 
+Build and run the app in a container:
+
+```bash
+docker build -t devops-health-dashboard.
+docker run -p 5000:5000 devops-health-dashboard
+```
+
+Then open http://localhost:5000 in your browser.
 ## 📁 Project Structure
 devops-health-dashboard/
 ├── src/

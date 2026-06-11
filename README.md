@@ -92,7 +92,7 @@ devops-health-dashboard/
 ## 👤 Author
 
 **<Ahmed abdeen>**
-- GitHub: [@<3abdien>](https://github.com/<3abdien>)
+- GitHub: [@<ahmed abdien>](https://github.com/<3abdien>)
 - LinkedIn: [<ahmed abdien>](https://linkedin.com/in/<ahmed Abdien>)
 
 ---

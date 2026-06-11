@@ -4,9 +4,11 @@ A lightweight system monitoring tool built with Python and SQLite.
 Collects real-time CPU, memory, and disk metrics and stores them
 in a local database — designed to demonstrate core DevOps observability principles.
 
-![Python](https://img.shields.io/badge/Python-3.14-blue)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-green)
+![Docker](https://img.shields.io/badge/Docker-ready-2496ED)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+![CI](https://github.com/3abdien/devops-health-dashboard/actions/workflows/ci.yml/badge.svg)
 
 ---
 
@@ -26,9 +28,9 @@ in a local database — designed to demonstrate core DevOps observability princi
 | Python 3.14 | Core scripting |
 | psutil | System metrics collection |
 | SQLite | Lightweight local database |
-| Flask | Web dashboard (coming soon) |
-| Docker | Containerization (coming soon) |
-| GitHub Actions | CI/CD pipeline (coming soon) |
+| Flask | Web dashboard  |
+| Docker | Containerization  |
+| GitHub Actions | CI/CD pipeline |
 
 ---
 
@@ -84,7 +86,7 @@ devops-health-dashboard/
 - [x] SQLite storage
 - [x] Flask web dashboard
 - [x] Docker containerization
-- [ ] GitHub Actions CI/CD pipeline
+- [x] GitHub Actions CI/CD pipeline
 - [ ] Deploy to cloud (AWS/GCP)
 
 ---

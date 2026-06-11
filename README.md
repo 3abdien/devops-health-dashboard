@@ -91,9 +91,9 @@ devops-health-dashboard/
 
 ## 👤 Author
 
-**<Your Full Name>**
-- GitHub: [@<your-username>](https://github.com/<your-username>)
-- LinkedIn: [<your-name>](https://linkedin.com/in/<your-linkedin>)
+**<Ahmed abdeen>**
+- GitHub: [@<3abdien>](https://github.com/<3abdien>)
+- LinkedIn: [<ahmed abdien>](https://linkedin.com/in/<ahmed Abdien>)
 
 ---
 
